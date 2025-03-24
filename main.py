@@ -1,1 +1,0 @@
-print("Geoinformatyka rządzi! Oh yeaaaah!!!")
